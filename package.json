@@ -1,0 +1,11 @@
+{
+  "name": "webpack-private-loader",
+  "version": "1.0.0",
+  "description": "a wepack loader for transfer _ to #",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liangjiang",
+  "license": "ISC"
+}
