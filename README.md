@@ -3,9 +3,10 @@
 ## install in local
 
 ```bash
+// in this project
 npm link
 
-// in your usage project
+// In the project you need to use
 
 npm link webpack-private-loader
 ```
